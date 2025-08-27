@@ -13,33 +13,176 @@ MonoBehaviour:
   m_Name: CodeMonkeyInteractiveSO
   m_EditorClassIdentifier: 
   currentVersion: 1.03
-  quizStateList: []
-  frequentlyAskedQuestionStateList: []
+  quizStateList:
+  - quizSO: {fileID: 11400000, guid: 385bf9cdb284c014fac09fd7dd945d77, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 36f7fe6768efdc749af310f1ef749319, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: d7847bfafd8448d4c98a44c5df6a75ce, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 33c2a9f191be940479825532770c355f, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 1c1c02c1183e8a94bb9e5b178ea1758e, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 4232a82859e70f349accdcdfcd891271, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: e04cb34546da4e24daadd54d01989881, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 831b34d491b575c42883961bb32e0392, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 9041e1f8aecb8214788dddce15d57a75, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: b5005a521e889c947beb3ce09f8a9f85, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 0f71dc7363ca81a478a652cac7005196, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 3a5f0e9f9243f7a4f822f9b59f33df19, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 91172269d4ef7bb4cb1ac426be114d86, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 563c522e4314acc4395dd7595a66ca82, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 0c01178b4cfbf6b48b527555237d534e, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: b1d483c907908da4aac9cd2781d6e612, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: f2f9028aa77350245b76f181efb7a09e, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 62e821e1bbb4afb4084bfadb1814c8f5, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 4438aec1a283e2e4cbedabbd5ce4b874, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: f319736d91518b34a8e050926d52fcf0, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: f1ce5d9f073199f46b0b39850e53805c, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 43957b976fc436445afa91837f4969f0, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 3999ec304c38b2e479aacf108c459c97, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: cb7ff6dc1d3285747a487db9071382b4, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: a9758ee0fe3b859478442ab943cc90c9, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: cb7389c294db34646afdef5aba76ecc2, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 72655d56d62d75b488b7f2dbfb9ce950, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: c0a60e56d794ce34dad847ccccbfcd9a, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: c2d0f9dd4ffa57e468af804384de5b02, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 8a4a2ce9c84cf3d4bb8c199ec431b15f, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 5c47f5a931f347649b3142228157034e, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: bb11e20a63de6984d9dfa46a6ddcf8c6, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: a1fbc28205f58844883212b8150afb4a, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: 1ce3f0a699add804caecd4ffecee603d, type: 2}
+    state: 2
+  - quizSO: {fileID: 11400000, guid: bb4788e697fb89e45b4733101d70c5bc, type: 2}
+    state: 2
+  frequentlyAskedQuestionStateList:
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 37e3b4a50eecfcc4d80cdd23e41b5db0, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 6ee83cbf0632ee04b86958469a4f4246, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: b884a983dbe830e44aead5cd9659dc19, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 46c10df2da8879e4fac8ab432ef7e778, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 9cd0e27a2f4aa634dab76fb25e85db48, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: e82c2751f3eb364468a3fc65f2442708, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 02424ef70a09e304c91f6458d3ed1088, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 95c594d1beffd924da49766b0d505a83, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: e66e8dd7e482e3d4391189be741beec9, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 37a9e53ae3c5c3a4fb1e4f18380139f9, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: ea4f3286d163c3a4fae387749aeee126, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 79905909059b87447886a1922957a50e, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 51a9ff743fe166846904ba58023dd714, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 9c3ebb470436f674ebf576a707c2b3c5, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: e3c598032e0f1694c8a6d6683609e3c0, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 46bf41fdf4a40a64e9aec1450a6edab5, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: f49bb2d411262534bac2af2126edfaab, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 398c65dc32a55a34294ced880b2621ad, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: b35d9a8b283fc2045a35c11a9068b2c8, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 767ca663ab0b2a14b98c93a559f1b739, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 3fd98fce36f7bc54ebf2a769ce2c0ce0, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: d12189c9df49aba4684a40deedcdca16, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 837596405582bb14792d407d866889db, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: a8e1549d16e4b0247bbcbcbd3cf9150e, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: c8f12bd6b25d53b478faf12ee7d4a082, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 6ed528f1310e1594baef21b9fdc1d877, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: db6171cfd5f92fa4b9996607d27d584f, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 7fb896ec01c372a49ae133d4ff3458c5, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: fed4ff4f7e32afb4fa274dce0b5b3619, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 46d239c380c6fff4f812908972e9b8d0, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: c41375295ae0b25468e523863536f3ea, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 2c366fb3243cdff41a4936c100071d0c, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: b675bc89aca0ade41bc2ccf955e728f9, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 67ea2dfbd6ef7a444a61970d2bd81b20, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: cc0b52bb842b0e24882ce129a5ce2276, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 11b23a5e75d767b459867ca24f613b10, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: deab07839db8b9c43b209a7091ac2ade, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 1d50e3688cb7b8749a2ccb6739e5e0e7, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 29591d4a233ae7345a4d8cf9a0715d3f, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: b478976f25d86c44fbd98f26507c76e4, type: 2}
+    state: 2
+  - frequentlyAskedQuestionSO: {fileID: 11400000, guid: 5f35a66df323a444193dc9b77189fe14, type: 2}
+    state: 2
   exerciseStateList: []
   lectureListSO: {fileID: 11400000, guid: c1af4d7cadebe754fa5ac3880e0890f9, type: 2}
   defaultScene: {fileID: 102900000, guid: bb81c32a07e112643ac0b41e5f2d830a, type: 3}
   activeExerciseSO: {fileID: 0}
-  lastSelectedLectureSO: {fileID: 11400000, guid: 790c70be8e2ecba4ba9dd582fe90022b,
-    type: 2}
-  checkedLastUpdateTimestamp: 0
-  lastUpdateVersion: 1.02
+  lastSelectedLectureSO: {fileID: 11400000, guid: 56d4ec8d7ce84784a8e31d9bf021581b, type: 2}
+  checkedLastUpdateTimestamp: 1756242298
+  lastUpdateVersion: 1.03
   lastQOTDResponse:
-    questionId: 214
-    questionText: 'What is the position of the transform after running this code?
-
-      <p>Vector3
-      targetPosition = new Vector3(10, 0, 0);</p>
-
-      <p>transform.position =
-      targetPosition;</p>
-
-      <p>targetPosition.x = 20;</p>'
-    answerA: (10, 0, 0)
-    answerB: (20, 0, 0)
-    answerC: Unknown
+    questionId: 215
+    questionText: What will happen on January 19, 2038 at 03:14:07?
+    answerA: Armagedon
+    answerB: End of Unix Time
+    answerC: Half-Life 3 release date
     answerD: 
     answerE: 
-  lastQotdTimestamp: 0
+  lastQotdTimestamp: 1756242298
   websiteLatestMessage:
     text: 'Hi there!
 
@@ -55,22 +198,22 @@ MonoBehaviour:
 
       Join the <b>Private Discord</b> and <b>Weekly Private Livestreams</b>
       where I''m there to answer any questions you have.<br><a href=''https://cmonkey.co/lualanderprivate''>https://cmonkey.co/lualanderprivate</a>'
-  websiteLatestMessageTimestamp: 0
+  websiteLatestMessageTimestamp: 1756242298
   websiteDynamicMessage:
     text: <u>Fresh Assets on Sale!</u>
     url: https://cmonkey.co/unityassetstore
-  websiteDynamicMessageTimestamp: 0
+  websiteDynamicMessageTimestamp: 1756242298
   websiteLatestVideos:
     videos:
+    - youTubeId: FrKLJ1nCsxY
+      title: Indie Dev makes $4 MILLION... then goes broke!
+    - youTubeId: _fymNH4flZE
+      title: TOP 10 NEW Systems and Tools AUGUST 2025! | Unity Asset Store
     - youTubeId: YCvh88Hg5m8
       title: TOP 8 QUICK Tips on Game Programming!
     - youTubeId: Lgmv7PYKka8
       title: Does this AI FINALLY replace Game Devs? Should YOU worry?
-    - youTubeId: x4BTbeKinSI
-      title: TOP 10 FREE NEW Assets AUGUST 2025!
-    - youTubeId: HZ48JOAf-Ko
-      title: Did I STOP making TUTORIALS?
-  websiteLatestVideosTimestamp: 0
+  websiteLatestVideosTimestamp: 1756242298
   lastChatAIQuestionAsked: Is Unity good for making 2D games?
   lastChatAIQuestionAnswer: 'Unity is great for making 2D games! It provides a wide
     range of tools and features specifically designed for 2D game development. Unity''s
