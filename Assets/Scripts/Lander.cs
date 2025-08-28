@@ -6,11 +6,34 @@ using UnityEngine.InputSystem;
 
 public class Lander : MonoBehaviour
 {
-    private void Update()
+    private Rigidbody2D landerRigidbody2D;
+
+    private void Awake()
+    {
+        landerRigidbody2D = GetComponent<Rigidbody2D>();
+    }
+
+    private void FixedUpdate()
     {
         if (Keyboard.current.upArrowKey.isPressed)
         {
-            Debug.Log("up");
+            float force = 700f;
+            landerRigidbody2D.AddForce(force * transform.up);
         }
+        if (Keyboard.current.leftArrowKey.isPressed)
+        {
+            float turnSpeed = 100;
+            landerRigidbody2D.AddTorque(turnSpeed);
+        }
+        if (Keyboard.current.rightArrowKey.isPressed)
+        {
+            float turnSpeed = -100;
+            landerRigidbody2D.AddTorque(turnSpeed);
+        }
+    }
+
+    private void Update()
+    {
+        
     }
 }
