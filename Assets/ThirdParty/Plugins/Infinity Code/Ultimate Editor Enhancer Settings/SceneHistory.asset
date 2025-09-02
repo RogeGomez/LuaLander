@@ -15,3 +15,5 @@ MonoBehaviour:
   _items:
   - name: SampleScene
     path: Assets/Scenes/SampleScene.unity
+  - name: 0
+    path: Assets/_Recovery/0.unity
